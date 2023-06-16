@@ -1,0 +1,26 @@
+[
+    {
+        "PostId": 1,
+        "name": "permata bank"
+      },
+      {
+        "PostId": 1,
+        "name": "blockchain"
+      },
+      {
+        "PostId": 2,
+        "name": "xiaomi"
+      },
+      {
+        "PostId": 2,
+        "name": "poco"
+      },
+      {
+        "PostId": 3,
+        "name": "oppo"
+      },
+      {
+        "PostId": 3,
+        "name": "flagship"
+      }
+]
