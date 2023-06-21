@@ -16,7 +16,7 @@ export const postFetchDetailPostSuccess = (payload) => ({
   payload,
 });
 
-const baseUrl = "http://localhost:3000";
+const baseUrl = "https://tabloidkuota-api.khoirulariffin.dev";
 
 export const fetchPosts = () => async (dispatch, getState) => {
   try {
